@@ -33,6 +33,7 @@
             <layout>default</layout>
         </repository>
     </repositories>
+    
     <dependencies>
         <dependency>
             <groupId>fr.paris.lutece</groupId>
